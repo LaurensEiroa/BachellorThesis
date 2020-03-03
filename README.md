@@ -1,2 +1,2 @@
 # BachellorThesis
-Bachellor thesis performd at Vrije Universiteit Brussel to fullfill the requirements to obtain the Bachellor of Physics and Astrophysics. This is a research
+Bachellor thesis carried out at Vrije Universiteit Brussel (VUB) to fullfill the requirements of the Bachellor of Physics and Astrophysics. This is a research work in the field of deep-learning, where the main goal is to determine the computational capacity of a special type of bio-inspired Recurrent Neural Network (known as Reservoir Computing) used for complex time series analysis.
